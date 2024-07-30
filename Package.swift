@@ -1,5 +1,4 @@
 // swift-tools-version: 5.7
-// The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
@@ -13,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GMCoreUtility",
-            url: "https://www.github.com/Graphmasters/ios-core-utility-distribution/releases/download/1.1.2/GMCoreUtility.xcframework.zip",
-            checksum: "19c093db28c9ba438be9e292623b638a5f6a24282f7b629e72a83320a7c7b64d"
+            url: "https://www.github.com/Graphmasters/ios-core-utility-distribution/releases/download/1.1.3/GMCoreUtility.xcframework.zip",
+            checksum: "6c325802cc858a8f3b7d7da2e49ea71d984aca3521d9d14ccf3e881416a1ae8e"
         )
     ]
 )
