@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GMCoreUtility",
-            url: "https://www.github.com/Graphmasters/ios-core-utility-distribution/releases/download/1.1.3/GMCoreUtility.xcframework.zip",
-            checksum: "6c325802cc858a8f3b7d7da2e49ea71d984aca3521d9d14ccf3e881416a1ae8e"
+            url: "https://www.github.com/Graphmasters/ios-core-utility-distribution/releases/download/1.2.0/GMCoreUtility.xcframework.zip",
+            checksum: "8f3b75365b973c4fa0567c60f556012a51b4fb02a6add2735d06c6e5035390ef"
         )
     ]
 )
